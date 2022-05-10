@@ -24,3 +24,7 @@ Debes crear un report reproducible contestando las siguientes preguntas:
 5. Elabora **2 análisis** por tu parte:
 	- Algunas sugerencias: Diferencias entre precio de venta de reservas canceladas y confirmadas, cómo afecta el número de noches al precio medio de la reserva, cómo afecta el 
 	número de guests, ratio de cancelación por origen (origen_id), análisis del precio de venta por mes...
+
+## Entrega
+
+Entrega tus resultados en notebook o en un link al repo en GitHub a: carlos.perez@eurostarshotelcompany.com 
