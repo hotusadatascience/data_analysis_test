@@ -14,7 +14,7 @@ El dataset a trabajar contiene las siguientes columnas:
 - *mean_price_per_night*: Precio medio por noche de la reserva
 - *status*: Status de la reserva (Cancelada o Confirmada)
 
-Debes crear un report reproducible contestando las siguientes preguntas:
+Debes crear un report reproducible (en un notebook en Python o R) contestando las siguientes preguntas:
 1. Representa gráficamente el número de **cancelaciones y reservas confirmadas** para cada fecha de **check in** (date_checkin). 
 2. Número de **reservas confirmadas y cancelaciones** para cada **agencia** (agengy_id). Selecciona únicamente el top 10 en cuanto a volumen total de reservas.
 3. Evolución del **precio mínimo**, **precio medio**, **precio máximo** y **revenue** para cada fecha de **check in** (date_checkin) (Nótese: revenue = mean_price_per_night * nights)
