@@ -4,7 +4,7 @@ Tarea para candidatos que aplican a un puesto de Data Analyst en Grupo Hotusa.
 
 ## Descripción de la tarea
 
-El dataset (*hotusa_analysis.csv*) a trabajar contiene las siguientes columnas:
+El dataset (**hotusa_analysis.csv**) a trabajar contiene las siguientes columnas:
 - *res_id*: Id de Reserva
 - *date_gen*: Fecha en la que se realizó la reserva
 - *date_checkin*: Fecha de entrada de la reserva
