@@ -9,6 +9,7 @@ El dataset a trabajar contiene las siguientes columnas:
 - *date_gen*: Fecha en la que se realizó la reserva
 - *date_checkin*: Fecha de entrada de la reserva
 - *nights*: Número de noches de la reserva
+- *guests*: Número de ocupantes en la reserva
 - *ori_id*: Origen de la reserva
 - *agency_id*: Agencia a partir de la cual entró la reserva
 - *mean_price_per_night*: Precio medio por noche de la reserva
