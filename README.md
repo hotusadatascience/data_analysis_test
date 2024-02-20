@@ -26,7 +26,3 @@ Debes crear un report reproducible (en un notebook en Python o R) contestando la
 	- Algunas sugerencias: Diferencias entre precio de venta de reservas canceladas y confirmadas, cómo afecta el número de noches al precio medio de la reserva,  ratio de cancelación por origen (origen_id), evolución del precio de venta por mes, qué considerarías outliers...
 
 Se valorará las explicaciones y insights que se detecten como también que las gráficas sean fáciles de leer. No es tanto escupir los datos, sino contar una historia con ellos. Este report lo debería poder leer tanto un perfil técnico como un perfil de negocio. 
-
-## Entrega
-
-Entrega tus resultados en notebook o en un link al repo en GitHub a: carlos.perez@eurostarshotelcompany.com 
